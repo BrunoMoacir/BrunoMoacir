@@ -1,6 +1,9 @@
 ## Olá! Eu sou o Bruno Moacir 👋
 
-Desenvolvedor em formação, apaixonado por tecnologia e sempre buscando novos desafios. Atualmente focado em desenvolvimento web e aprendendo linguagens como C, C++, JavaScript e Python.
+🎓 Estudante de Ciência da Computação na PUC Minas (1º período)  
+💻 Desenvolvedor em formação, apaixonado por tecnologia e sempre buscando novos desafios.  
+Atualmente focado em desenvolvimento web e aprendendo linguagens como C, C++, JavaScript e Python.
+
 
 ---
 

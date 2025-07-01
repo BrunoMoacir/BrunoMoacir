@@ -4,7 +4,6 @@
 💻 Desenvolvedor em formação, apaixonado por tecnologia e sempre buscando novos desafios.  
 Atualmente focado em desenvolvimento web e aprendendo linguagens como C, C++, JavaScript e Python.
 
-
 ---
 
 ### 🛠️ Tecnologias
@@ -25,7 +24,7 @@ Atualmente focado em desenvolvimento web e aprendendo linguagens como C, C++, Ja
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMoacir&layout=compact&theme=transparent" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoMoacir&theme=transparent"/>
+  <img src="https://streak-stats.demolab.com/?user=BrunoMoacir&theme=transparent" />
 </div>
 
 ---

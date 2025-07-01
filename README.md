@@ -19,12 +19,8 @@ Atualmente focado em desenvolvimento web e aprendendo linguagens como C, C++, Ja
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoMoacir&show_icons=true&theme=transparent" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMoacir&layout=compact&theme=transparent" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=BrunoMoacir&theme=transparent" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoMoacir&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMoacir&layout=compact&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com/?user=BrunoMoacir&theme=transparent)
 
 ---

@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Bruno Moacir 👋
 
-🎓 Estudante de Ciência da Computação na PUC Minas (1º período)  
-💻 Desenvolvedor em formação, apaixonado por tecnologia e sempre buscando novos desafios.  
-Atualmente focado em desenvolvimento web e aprendendo linguagens como C, C++, JavaScript e Python.
+🎓 Estudante de Ciência da Computação na PUC Minas (2º período)  
+💻 Desenvolvedor em formação.  
+Atualmente focado em desenvolvimento web e aprendendo linguagens como Java e React.
 
 ---
 
@@ -14,6 +14,10 @@ Atualmente focado em desenvolvimento web e aprendendo linguagens como C, C++, Ja
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 

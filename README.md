@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Bruno Moacir 👋
 
-🎓 Estudante de Ciência da Computação na PUC Minas (2º período)  
-💻 Desenvolvedor em formação.  
-Atualmente focado em desenvolvimento web e aprendendo linguagens como Java e React.
+🎓 Estudante de Ciência da Computação na PUC Minas (3º período)  
+💻 Desenvolvedor em formação.
 
 ---
 

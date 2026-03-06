@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Bruno Moacir 👋
 
 🎓 Estudante de Ciência da Computação na PUC Minas (3º período)  
-💻 Desenvolvedor em formação.
 
 ---
 

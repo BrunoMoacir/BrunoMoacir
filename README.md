@@ -41,7 +41,7 @@
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cs,java,nodejs"/>
+  <img src="https://skillicons.dev/icons?i=c,cs,java,python,nodejs"/>
 </p>
 
 ---
@@ -63,10 +63,6 @@
 ### ☁️ Databases, Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=azure,postgresql"/>
-</p>
-
-<p>
-  🚀 Deploy e banco de dados com Railway
 </p>
 
 ---

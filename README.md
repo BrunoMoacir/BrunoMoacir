@@ -37,24 +37,36 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
 </p>
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css"/>
-</p>
+---
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs"/>
+  <img src="https://skillicons.dev/icons?i=c,cs,java,nodejs"/>
 </p>
+
+---
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,js,ts"/>
+</p>
+
+---
 
 ### 🛠 Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,npm"/>
 </p>
 
-### ☁️ Outros
+---
+
+### ☁️ Databases, Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino"/>
+  <img src="https://skillicons.dev/icons?i=azure,postgresql"/>
+</p>
+
+<p>
+  🚀 Deploy e banco de dados com Railway
 </p>
 
 ---

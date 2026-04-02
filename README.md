@@ -1,30 +1,62 @@
-## Olá! Eu sou o Bruno Moacir 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:4169e1&height=120&section=header"/>
 
-🎓 Estudante de Ciência da Computação na PUC Minas (3º período)  
+<h1 align="center">Olá! Eu sou o Bruno Moacir 👋</h1>
 
----
+<p align="center">
+  🎓 Estudante de Ciência da Computação na PUC Minas (3º período) <br>
+  💻 Apaixonado por tecnologia, programação e desenvolvimento de sistemas
+</p>
 
-### 🛠️ Tecnologias
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=4169e1&size=30&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Backend+Developer+in+Progress;Always+Learning+New+Things" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoMoacir&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMoacir&layout=compact&theme=transparent)
-![GitHub Streak](https://streak-stats.demolab.com/?user=BrunoMoacir)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoMoacir&bg_color=0d1117&color=4169e1&line=4169e1&point=4169e1&area=true&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoMoacir&show_icons=true&theme=transparent&title_color=4169e1&icon_color=4169e1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMoacir&layout=compact&theme=transparent&title_color=4169e1"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BrunoMoacir&theme=dark&ring=4169e1&fire=4169e1&currStreakLabel=4169e1"/>
+</p>
 
 ---
+
+## 🛠 Tech Stack
+
+### 💻 Linguagens
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css"/>
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
+</p>
+
+### 🛠 Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github"/>
+</p>
+
+### ☁️ Outros
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino"/>
+</p>
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4169e1,100:0d1117&height=120&section=footer"/>

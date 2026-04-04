@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:4169e1&height=120&section=header"/>
 
-<h1 align="center">Olá! Eu sou o Bruno Moacir 👋</h1>
+<h1 align="center">Olá! Eu sou o Bruno  👋</h1>
 
 <p align="center">
   🎓 Estudante de Ciência da Computação na PUC Minas (3º período) <br>
